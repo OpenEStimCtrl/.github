@@ -29,6 +29,6 @@ Proprietary 授权模式同样是**免费**的，仅需您在 Issue 中登记即
 
 ## Proprietary 授权
 
-| 公司 / 工作室 | 目标 / 项目 | 登记时间 | 相关链接 |
-|:-- |:-- |:-- |:-- |
-
+| 公司 / 工作室 | 目标 / 项目 | 登记时间 | 相关链接 | 授权申请 |
+|:-- |:-- |:-- |:-- |:-- |
+| YangJun | 智能产品(第三方引用) | 2024/08/09 | [Github](https://github.com/yangjun1994) | [Issue](https://github.com/OpenEStimCtrl/.github/issues/1) |
